@@ -17,7 +17,7 @@ return "The easiest and most powerful blogging and website content management sy
 # script_wordpress_versions()
 sub script_wordpress_versions
 {
-return ( "4.4.2" );
+return ( "5.1" );
 }
 
 sub script_wordpress_category
